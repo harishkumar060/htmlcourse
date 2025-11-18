@@ -1,2 +1,0 @@
-# htmlcourse
-demo for htmlcourse
